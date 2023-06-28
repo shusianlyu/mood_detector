@@ -1,6 +1,6 @@
 # mood_detector
 
-This project detects the change of sentiment tone of given diaries and plot the chart based on positivity and negativity throughout a week.
+This project uses natural language processing to detect the change of sentiment tone of given diaries and plot the chart based on positivity and negativity throughout a week.
 
 <img width="873" alt="Screenshot 2023-06-28 at 2 53 05 AM" src="https://github.com/shusianlyu/invoices_generation/assets/79874042/74cde285-21d0-4f0f-af3f-6c141e45a166">
 
